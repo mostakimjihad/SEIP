@@ -1,0 +1,27 @@
+body{
+    height: 900vh;
+}
+.flag{
+    position: fixed;
+}
+
+.rec{
+    height: 250px;
+    width: 400px;
+    background-color: green;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    box-shadow: 10px 10px 40px #000;
+}
+
+.cir{
+    height: 10vh;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 70px;
+    left: 150px;
+    
+}
